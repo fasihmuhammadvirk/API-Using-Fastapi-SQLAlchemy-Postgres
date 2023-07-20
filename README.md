@@ -1,6 +1,6 @@
 ## About Repositories
 In this i have created 5 Apis that do CRUD operation on the Database<br>
-I have created the database using SQLalchemy<a href="https://github.com/fasihmuhammadvirk/SQLAlchemy">(About Sqlalchemy)</a>  and linked it with Postgres<br>
+I have created the database using SQLalchemy<a href="https://github.com/fasihmuhammadvirk/SQLAlchemy">(About Sqlalchemy)</a>  and linked it with Postgressql<br>
 
 ## Notes 
 Sort them using "Create Date 'OldestFirst' " 
