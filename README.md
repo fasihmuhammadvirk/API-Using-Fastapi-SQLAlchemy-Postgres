@@ -1,10 +1,11 @@
+# Notes 
+Sort them using "Create Date 'OldestFirst' " <br>
+<a href = "https://notebook.zoho.com/app/index.html#/shared/notebooks/r5oy285ca9198eb03402fa0358d13d68e2cd1/notecards" >Link to Notes</a>
+
 # About Repositories
 In this i have created 5 Apis that do CRUD operation on the Database<br>
 I have created the database using SQLalchemy<a href="https://github.com/fasihmuhammadvirk/SQLAlchemy">(About Sqlalchemy)</a>  and linked it with Postgressql<br>
 
-# Notes 
-Sort them using "Create Date 'OldestFirst' " 
-<a href = "https://notebook.zoho.com/app/index.html#/shared/notebooks/r5oy285ca9198eb03402fa0358d13d68e2cd1/notecards" >Link to Notes</a>
 
 # Setup
 Follow these steps to setup this project/repository
@@ -15,15 +16,23 @@ Follow these steps to setup this project/repository
   ### Install and Setup Virtual Enviornment.
   ##### 1. Install Virtual Enviornment
           pip3 install virtualenv
+  
   ##### 2. Create a Virtual Enviornment
   ##### 2.1 Make sure you are in your project/repository folder
   ##### 2.2 Create a Virtual Environment
         virtualenv env
+  
   ##### 3. Activate the Virtual Enviornment
   ##### For Macos
        source env/bin/activate
   ##### For Windows
-       .\Scripts\bin\activate
+       .\Scripts\bin\activate\
+  
+  ##### 3. Deactivate the Virtual Enviornment
+  ##### For Macos
+       source env/bin/deactivate
+  ##### For Windows
+       .\Scripts\bin\deactivate
        
   ### Download & Install Dependancies.
   #####  1. We need these for this Project pytest, sqlalchemy, fastapi, pydantic, uvicorn, coverage, pytest-cov
