@@ -16,13 +16,13 @@ Follow these steps to setup this project/repository
   ##### 1. Install Virtual Enviornment
           pip3 install virtualenv
   ##### 2. Create a Virtual Enviornment
-  ###### 2.1 Make sure you are in your project/repository folder
-  ###### 2.2 Create a Virtual Environment
+  ##### 2.1 Make sure you are in your project/repository folder
+  ##### 2.2 Create a Virtual Environment
         virtualenv env
   ##### 3. Activate the Virtual Enviornment
-  ###### For Macos
+  ##### For Macos
        source env/bin/activate
-  ###### For Windows
+  ##### For Windows
        .\Scripts\bin\activate
        
   ### Download & Install Dependancies.
